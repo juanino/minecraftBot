@@ -11,6 +11,7 @@ via a cron nightly.
 Try !hello first, to confirm the bot is up.
 ```!hello```
 The bot should return with:
+
 ```Hello [your user] I am the Minecraft Server Bot```
 
 You can also issue a help command:
