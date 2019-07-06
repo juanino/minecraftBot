@@ -129,3 +129,4 @@ sftp.json
 # ignore project specific files
 test.py
 botconfig.py
+screenrc
